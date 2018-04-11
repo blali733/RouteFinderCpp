@@ -1,0 +1,6 @@
+1 Myszkow 3:90
+2 Zawiercie 3:70 1:10
+3 Gliwice 5:40
+4 Dabrowa_Gornicza 2:30
+5 Katowice 4:10
+4 NY 2:5000
